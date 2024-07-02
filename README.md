@@ -1,3 +1,4 @@
+abp new BookStore -t app -u blazor-webapp -dbms SQLite --theme basicabp new BookStore -t app -u blazor-webapp -dbms SQLite --theme basic
 # BookStore
 
 login: admin
